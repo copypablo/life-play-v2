@@ -538,6 +538,13 @@ main {
     }
 }
 
+.carousel{
+
+    animation: carousel-scroll 12s infinite linear;
+        
+
+}
+
 /* Benefícios Styles */
 .beneficios-grid {
     display: grid;
