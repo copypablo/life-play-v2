@@ -531,10 +531,10 @@ main {
 
 @keyframes carousel-scroll {
     14% {
-        transform: translateX(0);
+        transform: translateX(-89%);
     }
     14% {
-        transform: translateX(-180%);
+        transform: translateX(-63%);
     }
 }
 
